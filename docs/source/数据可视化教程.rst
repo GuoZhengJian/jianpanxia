@@ -1,0 +1,170 @@
+数据可视化教程
+=========================
+
+PowerBI数据可视化入门教程
+---------------------------------
+
+**【PowerBI入门教程】01前言**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面01.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1pG4y1g7S7/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】01前言
+
+----
+
+**【PowerBI入门教程】02介绍**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面02.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV15v4y1Q7Vc/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】02介绍
+
+----
+
+**【PowerBI入门教程】03软件安装**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面02.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1oG411P7hB/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】03软件安装
+
+----
+
+**【PowerBI入门教程】04软件界面介绍**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面04.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1MD4y177h6/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】04软件界面介绍
+
+----
+
+**【PowerBI入门教程】05数据导入**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面05.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1Z24y1U7J3/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】05数据导入
+
+----
+
+**【PowerBI入门教程】06数据编辑**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面06.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV17V4y1w7fJ/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】06数据编辑
+
+----
+
+**【PowerBI入门教程】07数据预处理**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面07.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1P44y1o7jR/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】07数据预处理
+
+----
+
+**【PowerBI入门教程】08创建表关系**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面08.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1Nd4y1a7Mx/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】08创建表关系
+
+----
+
+**【PowerBI入门教程】09创建日历表**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面09.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1we4y1j7kF/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】09创建日历表
+
+----
+
+**【PowerBI入门教程】10初见DAX表达式**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面10.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1wD4y1E7Ri/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】10初见DAX表达式
+
+----
+
+**【PowerBI入门教程】11可视化视觉对象**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面11.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1v24y1S7wV/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】11可视化视觉对象
+
+----
+
+**【PowerBI入门教程】12时间切片器**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面12.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1eA411X7Mz/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】12时间切片器
+
+----
+
+**【PowerBI入门教程】13DAX表达式与新建度量值**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面13.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV12P4y1i7Rt/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】13DAX表达式与新建度量值
+
+----
+
+**【PowerBI入门教程】14跳转与交互**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面14.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1xV4y1w793/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】14跳转与交互
+
+----
+
+**【PowerBI入门教程】15注册与发布**
+
+.. image:: ./_static/PowerBI搭建数据可视化系统封面15.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1T24y1S7Ud/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 【PowerBI入门教程】15注册与发布
+
+
+
+PowerBI业务案例教程
+---------------------
+
+**【PowerBI业务案例教程】做一个实时刷新的数据大屏, 超简单**
+
+.. image:: ./_static/案例教程_做一个实时刷新的数据大屏.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1eW4y1u7qG/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 做一个实时刷新的数据大屏, 超简单
+
+----
+
+**【PowerBI业务案例教程】做一个局域网数据展示平台, 超简单**
+
+.. image:: ./_static/案例教程_做一个局域网数据展示平台.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1fA411Q7Ah/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 做一个局域网数据展示平台, 超简单
+
+
+PowerBI技巧合集
+---------------------
+
+**【PowerBI小技巧】批量调整列宽**
+
+.. image:: ./_static/小技巧_批量调整列宽.png
+    :width: 300px
+    :target: https://www.bilibili.com/video/BV1xd4y1r7b6/?vd_source=10827ebdd042ef5aac4731b819de92dc
+    :alt: 批量调整列宽
